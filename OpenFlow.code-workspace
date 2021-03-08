@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "OpenFlow",
+			"path": "."
+		},
+		{
+			"path": "..\\openflow-api"
+		}
+	]
+}
